@@ -1,0 +1,10 @@
+<?php
+
+namespace App\Classes;
+
+use Illuminate\Support\Facades\Request;
+use App\Models\CheckList;
+
+class ControlClass {
+
+}
